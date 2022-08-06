@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MedetHasanUgurlu
 - 👀 I’m interested in Java Full Stack Developer
 - 🌱 I’m currently learning on frontend and backend developing
-- 📫 How to reach me mdt.hsn.71@hotmail.com
+- 📫 How to reach me mdt.hsn.76@hotmail.com
 
 
 <!---
