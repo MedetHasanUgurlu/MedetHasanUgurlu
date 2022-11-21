@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning on frontend and backend developing
 - 📫 How to reach me mdt.hsn.76@hotmail.com
 
-
+![](https://komarev.com/ghpvc/?username=MedetHasanUgurlu)
 <!---
 MedetHasanUgurlu/MedetHasanUgurlu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
