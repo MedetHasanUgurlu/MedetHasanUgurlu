@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at https://frabjous-biscochitos-aeac0c.netlify.app
+- 👨‍💻 All of my projects are available at https://rococo-froyo-31b91b.netlify.app
 
 - 💬 Ask me about **java, springboot**
 
