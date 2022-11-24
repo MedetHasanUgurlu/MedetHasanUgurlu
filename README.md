@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Java Full Stack Developer</h1>
 <h3 align="center">Easy Come Easy Go</h3>
 
+<div align="center">
+  
+  ![Counter](https://count.getloli.com/get/@medethasanugurlu?theme=rule1)
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medethasanugurlu&label=Profile%20views&color=0e75b6&style=flat" alt="medethasanugurlu" /> </p>
 
 - 🔭 I’m currently working on **Fun-App Blog Project**
