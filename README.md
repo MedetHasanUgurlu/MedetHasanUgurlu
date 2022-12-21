@@ -3,7 +3,7 @@
 
 <div align="center">
   
-  ![Counter](https://count.getloli.com/get/@medethasanugurlu?theme=rule1)
+
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medethasanugurlu&label=Profile%20views&color=0e75b6&style=flat" alt="medethasanugurlu" /> </p>
 
