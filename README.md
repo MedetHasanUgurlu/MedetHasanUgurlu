@@ -7,7 +7,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medethasanugurlu&label=Profile%20views&color=0e75b6&style=flat" alt="medethasanugurlu" /> </p>
 
-- 🔭 I’m currently working on **Fun-App Blog Project**
+- 🔭 I’m currently working on **Rent-a-Car Turkcell Mıcroservice Project**
 
 - 🌱 I’m currently learning **React**
 
