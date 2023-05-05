@@ -17,6 +17,8 @@
 
 - 📫 How to reach me **mdt.hsn.76@hotmail.com**
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/77449083/236438116-b9d9499e-c124-459b-9e90-98eb67a0a6c1.gif" alt="animated" />
+</p>
 
-![gumball-darwin](https://user-images.githubusercontent.com/77449083/236438116-b9d9499e-c124-459b-9e90-98eb67a0a6c1.gif)
 
