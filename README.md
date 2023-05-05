@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Java Full Stack Developer</h1>
+<h1 align="center">You are Java Full Stack Developer, Medet.</h1>
+<h1 align="center">I'm a what?</h1>
+
 <h3 align="center">Easy Come Easy Go</h3>
 
 <div align="center">
