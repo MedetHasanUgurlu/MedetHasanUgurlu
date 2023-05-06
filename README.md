@@ -1,7 +1,7 @@
-<h1 align="center">You are Java Full Stack Developer, Medet.</h1>
-<h1 align="center">I'm a what?</h1>
+<h1 align="center">Hagrid: You are Full Stack Java Developer, Medet.</h1>
+<h1 align="center">Medet: I'm a what?</h1>
 
-<h3 align="center">Easy Come Easy Go</h3>
+<h3 align="center">El psy congroo</h3>
 
 <div align="center">
   
@@ -9,7 +9,7 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medethasanugurlu&label=Profile%20views&color=0e75b6&style=flat" alt="medethasanugurlu" /> </p>
 
-- 🔭 I’m currently working on **Rent-a-Car Turkcell Mıcroservice Project**
+- 🔭 I’m currently working on **Rent-a-Car Turkcell Microservice Project**
 
 - 🌱 I’m currently learning **React**
 
