@@ -1,5 +1,5 @@
-<h1 align="center">Hagrid: You are Full Stack Java Developer, Medet.</h1>
-<h1 align="center">Medet: I'm a what?</h1>
+<h1 align="center">HELLO THERE</h1>
+
 
 <h3 align="center">El psy congroo</h3>
 
