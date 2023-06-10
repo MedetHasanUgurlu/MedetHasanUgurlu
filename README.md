@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at https://rococo-froyo-31b91b.netlify.app
+- 👨‍💻 https://www.linkedin.com/in/medet-hasan-ugurlu-36041618b/
 
 - 💬 Ask me about **java, springboot**
 
