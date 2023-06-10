@@ -11,16 +11,15 @@
 
 - 🔭 I’m currently working on **Rent-a-Car Turkcell Microservice Project**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Microservice Archıtecture**
 
 - 👨‍💻 https://www.linkedin.com/in/medet-hasan-ugurlu-36041618b/
 
-- 💬 Ask me about **java, springboot**
+- 💬 Ask me about **java, springboot, microservice, react**
 
 - 📫 How to reach me **mdt.hsn.76@hotmail.com**
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/77449083/236438116-b9d9499e-c124-459b-9e90-98eb67a0a6c1.gif" alt="animated" />
-</p>
+
+
 
 
