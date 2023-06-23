@@ -9,9 +9,8 @@
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=medethasanugurlu&label=Profile%20views&color=0e75b6&style=flat" alt="medethasanugurlu" /> </p>
 
-- 🔭 I’m currently working on **Rent-a-Car Turkcell Microservice Project**
+- 🔭 I’m currently working on ADVANCED-JAVA-CORE
 
-- 🌱 I’m currently learning **Microservice Archıtecture**
 
 - 👨‍💻 https://www.linkedin.com/in/medet-hasan-ugurlu-36041618b/
 
