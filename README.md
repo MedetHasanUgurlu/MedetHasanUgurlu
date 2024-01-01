@@ -8,6 +8,7 @@
 
   <iframe src="https://giphy.com/embed/bi6RQ5x3tqoSI" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cowboy-bebop-bi6RQ5x3tqoSI">via GIPHY</a></p>
 
+![image](https://github.com/MedetHasanUgurlu/MedetHasanUgurlu/assets/77449083/6ba858ae-7a33-41cc-a34e-8d66c0f11727)
 
 </div>
 
