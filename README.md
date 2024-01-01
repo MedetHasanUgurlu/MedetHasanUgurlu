@@ -5,8 +5,8 @@
 
 <div align="center">
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=medethasanugurlu&label=Profile%20views&color=0e75b6&style=flat" alt="medethasanugurlu" /> </p>
+![cowboy-bebop-anime](https://github.com/MedetHasanUgurlu/MedetHasanUgurlu/assets/77449083/84df544e-56bd-475d-8999-ca9b57a66e40)
 
-  <iframe src="https://giphy.com/embed/bi6RQ5x3tqoSI" width="480" height="349" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-cowboy-bebop-bi6RQ5x3tqoSI">via GIPHY</a></p>
 
 ![image](https://github.com/MedetHasanUgurlu/MedetHasanUgurlu/assets/77449083/6ba858ae-7a33-41cc-a34e-8d66c0f11727)
 
