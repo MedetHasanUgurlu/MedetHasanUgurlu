@@ -8,7 +8,7 @@
 <img src="assets/cowboy-bebop-anime.gif">
 </div>
 
-- 🔭 I’m currently working on OCP JAVA SE 17 DEVELOPER EXAM
+See you space cowboy BANG
 
 
 
