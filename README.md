@@ -8,7 +8,7 @@
 <img src="assets/cowboy-bebop-anime.gif">
 </div>
 
-See you space cowboy BANG
+See you space cowboy BANG...
 
 
 
