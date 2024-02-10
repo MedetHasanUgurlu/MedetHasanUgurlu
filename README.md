@@ -8,7 +8,9 @@
 <img src="assets/cowboy-bebop-anime.gif">
 </div>
 
-See you space cowboy BANG...
+Goal 1: OCP-17 Processing...
+</br>
+Goal 2: Spring Certified Professional 2024
 
 
 
