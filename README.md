@@ -10,7 +10,7 @@
 
 Goal 1: OCP-17 Processing...
 </br>
-Goal 2: Spring Certified Professional 2024
+Goal 2: Spring Certified Professional 2024 \
 Goal 3: Docker Certification Associate
 
 
