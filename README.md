@@ -6,6 +6,9 @@
 <div align="center">
 
 <img src="assets/cowboy-bebop-anime.gif">
+<h4 align="center">Easy come easy go</h4>
+
+
 </div>
 
 
